@@ -41,13 +41,19 @@ https://www.youtube.com/watch?v=ajXa8UN4m8c
 - iOS環境のSafariで遊ぶ際には「設定」→「Safari」→「タブバーを表示」をオフにする
 - スマートフォンのブラウザではURLバーが出てしまう場合は、画面をタッチしながら少し上に移動させることで調整する
 - 動作が不安定になった際にはページの再読み込みをする
+- Safari環境ではBGMが流れない場合があります
 
 ### モデル情報
 3Dモデル「止丸式初音ミク」を使用
 詳細は以下のURLのREADME情報を参照してください
 https://booth.pm/ja/items/1528156
 
-### BGM
+### ゲームエンジン
+- PlayCanvas
+
+https://playcanvas.jp/
+
+### BGM提供
 りおんぬ
 
 ### 開発者
