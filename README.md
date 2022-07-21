@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=ajXa8UN4m8c
 - PC Chrome
 - iPhone Safari
 - Android Chrome
+※ PCマウスでも操作は可能ですが、スマートフォンのタッチ操作のほうが楽に遊ぶことができます。
 
 ### 注意事項
 - スマートフォンで遊ぶ場合は本体を横向きにする
@@ -44,6 +45,9 @@ https://www.youtube.com/watch?v=ajXa8UN4m8c
 3Dモデル「止丸式初音ミク」を使用
 詳細は以下のURLのREADME情報を参照してください
 https://booth.pm/ja/items/1528156
+
+### BGM
+りおんぬ
 
 ### 開発者
 すぱりだ
