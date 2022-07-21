@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=ajXa8UN4m8c
 - PC Chrome
 - iPhone Safari
 - Android Chrome
+
 ※ PCマウスでも操作は可能ですが、スマートフォンのタッチ操作のほうが楽に遊ぶことができます。
 
 ### 注意事項
